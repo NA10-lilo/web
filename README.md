@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-WELCOME TO OUR NEWLY DEVELOPED WEBSITE<br>
-<head><h7>made by: Nehemiah,Naod & Zetsehat</h7><br>
+<h1></h1>WELCOME TO OUR NEWLY DEVELOPED WEBSITE</html></h1></html><br>
+<head><h4>made by: Nehemiah,Naod & Zetsehat</h4><br>
 <a href="youtube.com">link...</a>
 </head>
