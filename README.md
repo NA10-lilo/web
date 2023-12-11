@@ -1,6 +1,13 @@
 <!DOCTYPE html>
-<html>
-<h1></h1>WELCOME TO OUR NEWLY DEVELOPED WEBSITE</html></h1></html><br>
-<head><h4>made by: Nehemiah,Naod & Zetsehat</h4><br>
-<a href="youtube.com">link...</a>
+<body>
+  <style>a{
+  padding:30px;
+  color:red;
+  text-decoration:none;
+  }
+  </style>
+<head>
+  <a href="google.com"Home></a>
+  <a href="youtube.com"About></a>
 </head>
+</body>
